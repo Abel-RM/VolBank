@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.2.4.1.1", "1", "SC-04-Bank.RealizarDepositoTiempo", "EARoot/EA4/EA2/EA4/EA1/EA1/EA184.htm", "4.png", "", "", "{F45CFFDC-9B4A-4a9a-B0AD-78AD6BFF1978}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.4.1.2", "1", "SC-04-Bank.SeleccionarHabilidad", "EARoot/EA4/EA2/EA4/EA1/EA2/EA190.htm", "4.png", "", "", "{B9E55C10-003F-450b-AD04-B7F8311F48C3}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.4.1.3", "1", "SC-04-Bank.DepositarTiempo", "EARoot/EA4/EA2/EA4/EA1/EA3/EA196.htm", "4.png", "", "", "{39D74B85-72F2-4aeb-AF64-A0678363F8E1}", "Package");

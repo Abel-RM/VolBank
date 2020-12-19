@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.2.3.1.2:1", "", "SC03-Bank.SeleccionarCategoria", "EARoot/EA4/EA2/EA3/EA1/EA2/EA157.htm", "185.png", "-1644013256", "0", "", "Sequence diagram0","{A64C114F-917B-4e8a-8A37-BC213A77D748}");
+tocTab[tocTab.length] = new Array("0.4.2.3.1.2:2", "", ": Bank", "EARoot/EA4/EA2/EA3/EA1/EA2/EA160.htm", "25.png", "E-1400940002", "0", "", "Object0","{C7A0132F-4F46-43f3-8129-77ED30D23C50}");
+tocTab[tocTab.length] = new Array("0.4.2.3.1.2:3", "", ": Categoria", "EARoot/EA4/EA2/EA3/EA1/EA2/EA161.htm", "25.png", "E393652385", "0", "", "Object0","{40686FF4-C1DB-4421-BDFD-867B10AC5B30}");

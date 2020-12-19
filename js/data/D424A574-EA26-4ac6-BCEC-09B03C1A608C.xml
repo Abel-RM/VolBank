@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.2:1", "", "Estructura Interna", "EARoot/EA5/EA2/EA245.htm", "188.png", "1606173293", "0", "", "Custom diagram0","{827973F6-3E50-41c2-90CF-439BD3340242}");
+tocTab[tocTab.length] = new Array("0.5.2.1", "", "Dominio", "EARoot/EA5/EA2/EA1/EA252.htm", "4.png", "", "", "{FD726493-C7A1-46eb-A75D-5811C0045AB8}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2.2", "", "Persistencia", "EARoot/EA5/EA2/EA2/EA253.htm", "4.png", "", "", "{67F387DE-2ABC-47f2-BB6C-3842C91A1648}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2.3", "", "Server", "EARoot/EA5/EA2/EA3/EA254.htm", "4.png", "", "", "{3229E6B7-1C82-48e5-9A45-2FF6E5E88D0C}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2.4", "", "UI", "EARoot/EA5/EA2/EA4/EA255.htm", "4.png", "", "", "{61183F68-1D79-453c-8491-8A137BBB60A9}", "Package");

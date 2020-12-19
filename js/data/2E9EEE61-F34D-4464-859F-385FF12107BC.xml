@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.2.3.1.1", "1", "SC03-Bank.SolicitarAyuda", "EARoot/EA4/EA2/EA3/EA1/EA1/EA152.htm", "4.png", "", "", "{7FB5EC25-9EBF-49c4-89DB-B31DFE3FD639}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.3.1.2", "1", "SC03-Bank.SeleccionarCategoria", "EARoot/EA4/EA2/EA3/EA1/EA2/EA159.htm", "4.png", "", "", "{EFF871D6-9E79-4113-856B-7B73F1D8949A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.3.1.3", "1", "SC03-Bank.SeleccionarActividad", "EARoot/EA4/EA2/EA3/EA1/EA3/EA164.htm", "4.png", "", "", "{145ED03B-1B0E-4ba2-B3C2-EA43B6B7D825}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.3.1.4", "1", "SC03-Bank.IngresarDetalle", "EARoot/EA4/EA2/EA3/EA1/EA4/EA171.htm", "4.png", "", "", "{8EC77BC3-A6AF-43bc-A607-AC39A12EED34}", "Package");

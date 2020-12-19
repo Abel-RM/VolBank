@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Modelo del Negocio", "EARoot/EA2/EA1/EA11.htm", "175.png", "1243993058", "0", "", "Logical diagram0","{36BCF918-DF59-4cf1-A194-D5F501402462}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Match", "EARoot/EA2/EA1/EA14.htm", "5.png", "E1649211832", "0", "", "Class0","{89A022C6-8402-432b-AABF-C9AA47D4B5C8}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "Oportunidad", "EARoot/EA2/EA1/EA15.htm", "5.png", "E360681971", "0", "", "Class0","{6B76079A-EE33-4624-8FC2-0E59ACD76363}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "Organizacion", "EARoot/EA2/EA1/EA16.htm", "5.png", "E-1828623491", "0", "", "Class0","{DF1FACD5-DE45-419a-81BD-9921B2552C7C}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "Persona", "EARoot/EA2/EA1/EA17.htm", "5.png", "E-572689289", "0", "", "Class0","{F29A21CA-1D5A-488c-AD8D-83658290DBB2}");
+tocTab[tocTab.length] = new Array("0.2.1:6", "", "Voluntario", "EARoot/EA2/EA1/EA18.htm", "5.png", "E22045420", "0", "", "Class0","{FEA03DD7-9C1A-40b0-97E8-C8C76BA580DA}");

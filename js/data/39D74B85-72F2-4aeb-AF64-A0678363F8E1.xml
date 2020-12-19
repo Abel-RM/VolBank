@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.2.4.1.3:1", "", "SC-04-Bank.DepositarTiempo", "EARoot/EA4/EA2/EA4/EA1/EA3/EA194.htm", "185.png", "1005174413", "0", "", "Sequence diagram0","{2A73AE9E-8685-4b00-9961-5C456C298409}");
+tocTab[tocTab.length] = new Array("0.4.2.4.1.3:2", "", ": Bank", "EARoot/EA4/EA2/EA4/EA1/EA3/EA197.htm", "25.png", "E835649896", "0", "", "Object0","{4D5A9AE3-ECCC-4de8-8652-AA941D8EF4AD}");
+tocTab[tocTab.length] = new Array("0.4.2.4.1.3:3", "", ": Habilidad", "EARoot/EA4/EA2/EA4/EA1/EA3/EA198.htm", "25.png", "E2047370710", "0", "", "Object0","{5FF4E5BE-6D8C-490d-BFAA-971E75F6B41A}");
+tocTab[tocTab.length] = new Array("0.4.2.4.1.3:4", "", ": Voluntario", "EARoot/EA4/EA2/EA4/EA1/EA3/EA199.htm", "57.png", "E-933519574", "0", "", "Sequence0","{318205AB-0447-46e5-B966-77EB16BE1FA9}");
